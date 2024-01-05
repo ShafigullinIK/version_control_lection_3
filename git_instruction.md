@@ -11,3 +11,10 @@
 git config --global user.name "Ваше Имя"
 git config --global user.email "ваш.email@example.com"
 ```
+
+## 6. Подключение удаленного репозитория
+```bash
+git remote add origin адрес_удаленного_репозитория
+git push -u origin master
+```
+
