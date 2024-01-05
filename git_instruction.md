@@ -62,3 +62,8 @@ git remote add origin адрес_удаленного_репозитория
 git push -u origin master
 ```
 
+
+## 7. Клонирование существующего репозитория
+```bash
+git clone адрес_репозитория
+```
