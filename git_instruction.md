@@ -11,3 +11,8 @@
 git config --global user.name "Ваше Имя"
 git config --global user.email "ваш.email@example.com"
 ```
+
+## 7. Клонирование существующего репозитория
+```bash
+git clone адрес_репозитория
+```
