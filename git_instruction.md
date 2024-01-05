@@ -11,3 +11,8 @@
 git config --global user.name "Ваше Имя"
 git config --global user.email "ваш.email@example.com"
 ```
+
+## 5. Фиксация изменений (commit)
+```bash
+git commit -m "Ваше сообщение о коммите"
+```
