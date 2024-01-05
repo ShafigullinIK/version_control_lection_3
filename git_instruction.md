@@ -55,3 +55,10 @@ git add file1.txt file2.txt
 ```bash
 git commit -m "Ваше сообщение о коммите"
 ```
+
+## 6. Подключение удаленного репозитория
+```bash
+git remote add origin адрес_удаленного_репозитория
+git push -u origin master
+```
+
